@@ -48,7 +48,7 @@ img{display:block;max-width:100%}
 .scene-heading{display:flex;align-items:center;justify-content:space-between;gap:25px;position:relative;z-index:2;min-height:103px}
 .world-heading .eyebrow{font-size:10px;display:flex;align-items:center;gap:6px;font-weight:900;letter-spacing:2.1px;color:#41664a;margin-bottom:5px}
 .world-heading h1{font-family:'Fredoka',sans-serif;font-size:43px;font-weight:500;letter-spacing:.1px;line-height:1.13;color:#274d34;text-shadow:0 2px 0 #faf8d95e;position:relative;display:inline-block}
-.creator-credit{display:block;margin-top:2px;color:#806a3d;font-size:10px;font-weight:800;letter-spacing:.35px;line-height:1.35}
+.creator-credit{display:inline-block;margin-top:6px;padding:4px 10px;color:#ffffff;background:#254f3a;border:1px solid #f0c56b;border-radius:6px;font-size:11px;font-weight:900;letter-spacing:.4px;line-height:1.4;text-shadow:0 1px 2px #142d20;box-shadow:0 2px 5px #193d2d40}
 .heading-spark{position:absolute;right:-23px;top:-4px;font-family:'Nunito',sans-serif;color:#d59a35;font-size:29px;line-height:1;transform:rotate(12deg);font-weight:400}
 .world-heading p{font-size:13px;line-height:1.5;margin-top:9px;color:#4d6548;font-weight:700}
 .game-hud{height:74px;display:flex;align-items:center;gap:17px;background:linear-gradient(175deg,#ac7649 0%,#8b5d38 9%,#80552f 90%,#704327 100%);border:4px solid #bb874a;box-shadow:inset 0 0 0 2px #624328,0 4px 0 #533d29,0 6px 9px #3c50202e;border-radius:12px;padding:8px 18px;position:relative;margin-top:0;transform:rotate(.25deg)}
